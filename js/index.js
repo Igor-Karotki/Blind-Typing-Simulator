@@ -1,0 +1,10 @@
+const text = `It goes without saying, books are our teachers and friends. 
+They teach us to be kind, clever, polite, hardworking, friendly. Books help us to learn more about nature, the world around us and many other interesting things.
+There are a lot of books on history, about animals, travellers, children, school and so on. Children like to read adventure and magic books, science fiction and detective stories.
+They enjoy stories, short stories, novels, fairy-tales, fables and poems.
+We must keep books clean and tidy. We must not spoil them.`
+
+const inputElement = document.querySelector('#input')
+const textExampleElement = document.querySelector('#textExample')
+
+inputElement.value = ""
