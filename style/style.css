@@ -48,6 +48,10 @@ body {
   border-radius: 5px;
 }
 
+.container .keyboard .line div.hint {
+  background: #c7d0d4;
+}
+
 .container .keyboard .line .backspace,
 .container .keyboard .line .tab,
 .container .keyboard .line .caps,
